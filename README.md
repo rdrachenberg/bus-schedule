@@ -3,4 +3,4 @@ Tasked with creating JS program that tracks the progress of a bus on it’s rout
 ## Demo
 https://rdrachenberg.github.io/bus-schedule/ - Bus Schedule
 
-![](bus-schedule.gif)
+                [](bus-schedule.gif)
